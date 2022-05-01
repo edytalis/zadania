@@ -1,0 +1,13 @@
+.body {
+    background-color: #808080;
+}
+h1 {
+    font-size: 30px;
+    color: white;
+}
+.kwadraty{
+    width: 150px;
+    height: 150px;
+    background-color: #fea500;
+    margin: 10px;
+}
