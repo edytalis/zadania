@@ -1,7 +1,13 @@
 h1 {
     color: #0000ff;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
 }
 
 .change-color {
     color: #ff0000;
+    text-align: center;
 }
