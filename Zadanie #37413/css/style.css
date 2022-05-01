@@ -1,0 +1,10 @@
+p {
+    color: blue;
+}
+h1, h3  {
+    background-color: aqua;
+}
+
+h1 + h3 {
+    background-color: chartreuse;
+}
