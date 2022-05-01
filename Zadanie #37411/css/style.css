@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(148, 209, 236);
+}
+
+h1 {
+    background-color: rgb(209, 239, 168);
+}
+
+h2 {
+    background-color: rgb(247, 215, 176);
+}
+
+.p-1 {
+    background-color: rgb(47, 47, 233);
+}
+
+.p-2 {
+    background-color: rgb(214, 228, 176);
+}
+
+#ol-1 {
+    color: rgb(255, 254, 254);
+}
+
+#ol-2 {
+    color: rgb(212, 160, 160);
+}
+
+#ol-3 {
+    color: rgb(246, 248, 180);
+}
+
+#ol-4 {
+    color: rgb(175, 244, 239);
+}
+
+#ol-5 {
+    color: rgb(220, 168, 241);
+}
+.ol-1 {
+    background-color: rgb(138, 19, 19);
+}
