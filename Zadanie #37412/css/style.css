@@ -1,0 +1,15 @@
+.p-1 {
+    height: 300px;
+    width: 300px;
+    background-color: rgb(175, 29, 29);
+}
+.p-2 {
+    height: 300px;
+    width: 300px;
+    background-color: rgb(27, 22, 168);
+}
+.p-3 {
+    height: 300px;
+    width: 300px;
+    background-color: rgb(175, 29, 29, 0.5);
+}
