@@ -6,5 +6,5 @@ h1, h3  {
 }
 
 h1 + h3 {
-    background-color: chartreuse;
+    color: chartreuse;
 }
