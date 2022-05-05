@@ -1,2 +1,1 @@
-let alert = 'Skrypt działa prawidłowo';
-console.log(alert);
+alert('Skrypt działa prawidłowo');
