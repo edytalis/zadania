@@ -1,6 +1,6 @@
-let dataA = document.getElementById("opis");
-let dataB = document.querySelector("button");
+let dataA = document.getElementById("id1");
+let dataB = document.querySelector('button');
 
-document.querySelector('button').onclick = function() {
-    alert('dowolny tekst');
+function showmetext() {
+    document.getElementById('id1').innerHTML = "wyświetlam opis w h1";
 }
