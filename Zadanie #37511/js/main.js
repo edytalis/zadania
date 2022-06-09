@@ -4,17 +4,20 @@ console.log(fname.value); */
 let button = document.querySelector("button");
 
 
-function getdatafrom() {
-    let inputfname = document.getElementById("fname").value;
-    let inputlname = document.getElementById("lname").value;
-    let inputphone = document.getElementById("phone").value;
-  console.log(inputphone);
+function getDataFrom() {
+    let inputFname = document.getElementById("fname").value;
+    let inputLname = document.getElementById("lname").value;
+    let inputPhone = document.getElementById("phone").value;
+  console.log(inputFname);
   
-  let parname = document.getElementById("par_name");
-  let parlname = document.getElementById("par_lname");
-  let parphone = document.getElementById("par_phone");
+  let parName = document.getElementById("par_name");
+  let parLname = document.getElementById("par_lname");
+  let parPhone = document.getElementById("par_phone");
 
-  inputfname = parname
+  parName.innerText = inputFname;
+  parLname.innerText = inputLname;
+  parPhone.innerText = inputPhone;
+  console.log(parname.innerText + "- to jest mój string z formularza")
 }
   
-button.addEventListener('click', getdatafrom);
+button.addEventListener('click', getDataFrom);
